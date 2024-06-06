@@ -33,7 +33,7 @@
         android:layout_below="@id/btnAdminLogin"
         android:layout_marginLeft="40dp"
         android:layout_marginTop="37dp"
-        android:text="Or, To enter a new Admin,Press the button below"
+        android:text="Or, to enter a new Admin,Press the button below"
         android:textColor="#015593"
         android:textSize="15dp" />
 
